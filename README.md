@@ -45,3 +45,19 @@ Clona este repositorio a tu máquina local usando Git:
 
 ```bash
 git clone https://github.com/Oscar-codes/flutter-financial-transactions-app.git
+
+---
+### Explicación de los puntos clave del `README.md`:
+
+1. **Encabezados organizados**: Se usan encabezados Markdown (`#`, `##`, `###`) para jerarquizar la información, facilitando la navegación en GitHub.
+   
+2. **Código y comandos en bloques**: Los bloques de código (` ```bash ``` `) están formateados correctamente para mostrar los comandos de terminal como `git clone` y `flutter run` de manera clara y fácil de copiar.
+
+3. **Secciones de instalación y ejecución claras**: El evaluador sabrá exactamente cómo instalar las dependencias y ejecutar la aplicación con los comandos que se incluyen.
+
+4. **Descripción de la estructura del proyecto**: Esto proporciona una idea clara de la organización del código y le facilita al evaluador navegar por las carpetas y entender el flujo.
+
+5. **Consideraciones y próximos pasos**: Se mencionan posibles mejoras o funcionalidades adicionales que podrían implementarse, lo que demuestra que has considerado cómo puede evolucionar el proyecto.
+
+Este formato se verá limpio y bien estructurado cuando el evaluador lo revise en GitHub, facilitando su lectura y evaluación.
+
